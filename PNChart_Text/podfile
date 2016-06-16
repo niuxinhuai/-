@@ -1,0 +1,4 @@
+platform :ios, ‘8.0’
+target :PNChart_Text do
+pod 'PNChart', '~> 0.8.8'
+end
